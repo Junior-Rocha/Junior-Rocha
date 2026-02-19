@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/felicivaldo-rocha-4b5a6714a/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>
 <a href="https://github.com/Junior-Rocha/Junior-Rocha/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/github.svg" alt="Github" width="22" height="22" /></a>
 
-- Hello, my name is Felicivaldo, I'm passionate about technology, especially programming, always seeking to evolve and improve my skills. Currently focused on the Javascript ecosystem
+👋 Hello, my name is Felicivaldo, I'm passionate about technology, especially programming, always seeking to evolve and improve my skills. Currently focused on the Javascript ecosystem
 
 
 **Techs**
@@ -36,6 +36,7 @@
 
 **Contributions**
 ---
+
 
   [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Junior-Rocha&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
