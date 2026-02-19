@@ -30,18 +30,13 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Junior-Rocha/Junior-Rocha/output/github-snake.svg" />
 </picture
 
+
 #### Contributions
 <hr style="height: 0.5px; border: none; background-color: rgba(255, 255, 255, 0.1); margin: 16px 0;">
 
   [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Junior-Rocha&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Junior-Rocha&theme=darkhub&no-frame=false&no-bg=false&margin-w=4"/>
-</div
 
-  <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Junior-Rocha&theme=darkhub&no-frame=false&no-bg=false&margin-w=4"/>
-</div>
 
 ## GitHub Stats
 
