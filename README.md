@@ -1,6 +1,5 @@
 # Junior Rocha 👋
 ---
-
 **Software Engineer**
 <br>
 <a href="https://www.linkedin.com/in/felicivaldo-rocha-4b5a6714a/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>
