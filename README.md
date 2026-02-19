@@ -9,7 +9,7 @@
 - Hello, my name is Felicivaldo, I'm passionate about technology, especially programming, always seeking to evolve and improve my skills. Currently focused on the Javascript ecosystem
 
 
-**Techs*
+**Techs**
 ---
 <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a>
 <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" /></a>
@@ -33,8 +33,8 @@
 <br>
 
 
-**Contributions*
-<hr style="height: 0.5px; border: none; background-color: rgba(255, 255, 255, 0.1); margin: 16px 0;">
+**Contributions**
+---
 
   [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Junior-Rocha&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
