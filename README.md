@@ -1,5 +1,6 @@
-
 ### Junior Rocha 👋
+
+**Software Engineer**
 ---
 
 <a href="https://www.linkedin.com/in/felicivaldo-rocha-4b5a6714a/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>
@@ -29,6 +30,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Junior-Rocha/Junior-Rocha/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Junior-Rocha/Junior-Rocha/output/github-snake.svg" />
 </picture
+<br>
 
 
 #### Contributions
