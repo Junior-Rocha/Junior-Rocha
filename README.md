@@ -24,3 +24,8 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/postgresql.svg" alt="PostgreSQL" width="25" height="25" /></a>
 <a href="http://prisma.io" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/prisma.svg" alt="Prisma" width="25" height="25" /></a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Junior-Rocha/Junior-Rocha/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Junior-Rocha/Junior-Rocha/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Junior-Rocha/Junior-Rocha/output/github-snake.svg" />
+</picture>
