@@ -23,7 +23,7 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/postgresql.svg" alt="PostgreSQL" width="25" height="25" /></a>
 <a href="http://prisma.io" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/prisma.svg" alt="Prisma" width="25" height="25" /></a>
 
----
+<hr style="height: 1px; border: none; background-color: #e1e4e8; margin: 16px 0;">
 
 ![Junior Rocha github stats](https://github-readme-stats.vercel.app/api?username=Junior-Rocha&show_icons=true&theme=radical)
 
