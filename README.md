@@ -3,7 +3,8 @@
 ---
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Junior-Rocha)](https://github.com/Junior-Rocha)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felicivaldo-rocha-4b5a6714a/)](https://www.linkedin.com/in/felicivaldo-rocha-4b5a6714a/)
+<a href="https://www.linkedin.com/in/felicivaldo-rocha-4b5a6714a/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>
+<a href="https://github.com/Junior-Rocha/Junior-Rocha/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/github.svg" alt="Github" width="22" height="22" /></a
 
 - Hello, my name is Felicivaldo, I'm passionate about technology, especially programming, always seeking to evolve and improve my skills. Currently focused on the Javascript ecosystem
 
@@ -24,8 +25,3 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/postgresql.svg" alt="PostgreSQL" width="25" height="25" /></a>
 <a href="http://prisma.io" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/prisma.svg" alt="Prisma" width="25" height="25" /></a>
 
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-Rocha&layout=compact&theme=radical)](https://github.com/Junior-Rocha/github-readme-stats)
